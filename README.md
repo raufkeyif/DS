@@ -1,6 +1,4 @@
-# DS
-Merge sort Projesi
-##  **MERGE SORT PROJESİ**
+#  **MERGE SORT PROJESİ**
 
 [16,21,11,8,12,22] -> Merge Sort
 
